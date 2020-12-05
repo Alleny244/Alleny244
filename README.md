@@ -22,8 +22,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)&nbsp;
-
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)&nbsp;\
+ ![](https://komarev.com/ghpvc/?username=Alleny244)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -32,6 +32,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alleny244&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alleny244&layout=compact&langs_count=8&theme=react"/>
 </a>
+
 </p>
 
 
