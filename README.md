@@ -24,6 +24,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)&nbsp;\
  ![](https://komarev.com/ghpvc/?username=Alleny244)
 
