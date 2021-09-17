@@ -13,6 +13,7 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;\
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
@@ -25,7 +26,7 @@
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)&nbsp;
-![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)&nbsp;\
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)&nbsp;
  ![](https://komarev.com/ghpvc/?username=Alleny244)
 
 ### ⚙️ &nbsp;GitHub Analytics
