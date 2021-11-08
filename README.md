@@ -2,10 +2,23 @@
 ## 👋 &nbsp;Hey there! I'm Allen
 
 ### 👨🏻‍💻 &nbsp;About Me
+- 🔭 I’m currently working on [YfiTube](https://github.com/Alleny244/YfiTube)
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science Engineering at College Of Engineering,Trivandrum.\
-✉️ &nbsp;You can shoot me an email at allen@cet.ac.in! I'll try to respond as soon as I can.
+- 🌱 I’m currently learning **Django**
+
+- 👯 I’m looking to collaborate on **Flutter, React, NodeJs, MongoDB, Firebase**
+
+- 🤝 I’m looking for help with **Discord Bots**
+
+- 👨‍💻 To get to know about my work visit my [website](https://github.com/Alleny244)
+
+- 💬 Ask me about **Android, Frontend development, Linux, Java, Python.**
+
+- 📫 How to reach me **allen@cet.ac.in**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qDIkRK7ywqwws_85Yqq2D6jDoTc8m2mK/view?usp=sharing)
+
+- ⚡ Fun fact  **It’s all 0’s and 1’s**
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -26,21 +39,24 @@
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)&nbsp;
-![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)&nbsp;
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)&nbsp;\
  ![](https://komarev.com/ghpvc/?username=Alleny244)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Alleny244">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alleny244&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alleny244&show_icons=true&theme=react&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alleny244&layout=compact&langs_count=8&theme=react"/>
 </a>
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alleny244&theme=react" alt="alleny244" />
 </p>
 
-### Wakatime Week Stats
+### 🛠  Wakatime Week Stats
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alleny244)](https://github.com/Alleny244/github-readme-stats)
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
