@@ -38,7 +38,9 @@
 </a>
 
 </p>
-
+<!-- 
+### Wakatime Week Stats -->
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Alleny244/github-readme-stats) -->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
