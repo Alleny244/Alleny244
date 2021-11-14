@@ -8,8 +8,6 @@
 
 - 👯 I’m looking to collaborate on **Flutter, React, NodeJs, MongoDB, Firebase**
 
-- 🤝 I’m looking for help with **Discord Bots**
-
 - 👨‍💻 To get to know about my work visit my [website](https://github.com/Alleny244)
 
 - 💬 Ask me about **Android, Frontend development, Linux, Java, Python.**
