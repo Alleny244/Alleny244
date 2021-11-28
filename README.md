@@ -51,9 +51,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alleny244&theme=react" alt="alleny244" />
 </p>
 
-### 🛠  Wakatime Week Stats
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alleny244)](https://github.com/Alleny244/github-readme-stats)
 
 
 ### 🤝🏻 &nbsp;Connect with Me
