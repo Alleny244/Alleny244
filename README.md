@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **allen@cet.ac.in**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qDIkRK7ywqwws_85Yqq2D6jDoTc8m2mK/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11qwLxgxbaL71c1eH0oGQ7tqwWq1o69zr/view?usp=sharing)
 
 - ⚡ Fun fact  **It’s all 0’s and 1’s**
 
