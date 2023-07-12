@@ -2,7 +2,6 @@
 ## 👋 &nbsp;Hey there! I'm Allen
 
 ### 👨🏻‍💻 &nbsp;About Me
-- 🔭 I’m currently working on [MERN Stack](https://github.com/Alleny244/MERN_STACK_AUTHENTICATION)
 
 - 🌱 I’m currently learning **Django**
 
