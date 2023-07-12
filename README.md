@@ -21,6 +21,8 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)&nbsp;
+![Jetpack Compose](https://img.shields.io/badge/-JetpackCompose-333333?style=flat&logo=jetpackcompose)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
