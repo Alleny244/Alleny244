@@ -10,9 +10,9 @@
 
 - 👨‍💻 To get to know about my work visit my [website](https://alleny244.github.io/Portfolio-Website/)
 
-- 💬 Ask me about **Android, Frontend development, Linux, Java, Python.**
+- 💬 Ask me about **Android, Full Stack Web development, Linux, Java, Python.**
 
-- 📫 How to reach me **allen@cet.ac.in**
+- 📫 How to reach me **alleny244@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13CMXPIZndx3PPhkQNJQehjigenC7Zmft/view?usp=drive_link)
 
