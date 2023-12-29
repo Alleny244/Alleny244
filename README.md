@@ -38,7 +38,8 @@
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)&nbsp;
-![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)&nbsp;\
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)\
  ![](https://komarev.com/ghpvc/?username=Alleny244)
 
 ### ⚙️ &nbsp;GitHub Analytics
