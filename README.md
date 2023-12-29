@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **Flutter, React, NodeJs, MongoDB, Firebase**
+- 👯 I’m looking to collaborate on **Flutter, React, NodeJs, MongoDB, Firebase, Python, Grpc**
 
 - 👨‍💻 To get to know about my work visit my [website](https://alleny244.github.io/Portfolio-Website/)
 
