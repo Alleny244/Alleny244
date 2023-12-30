@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **alleny244@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13CMXPIZndx3PPhkQNJQehjigenC7Zmft/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15-QoV3nO8k5BbYThboYy7b3WwVQ2fFx3/view?usp=sharing)
 
 - ⚡ Fun fact  **It’s all 0’s and 1’s**
 
