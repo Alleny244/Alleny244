@@ -1,10 +1,7 @@
 
-<!-- 
-GIF SECTION
 <a href="https://github.com/Alleny244">
-  <img src="./assets/profile.gif" alt="Alleny244 Profile GIF" width="400"/>
+  <img src="./assets/ScreenRecording2025-02-02at2.46.46PM-ezgif.com-video-to-gif-converter.gif" alt="Alleny244 Profile GIF"/>
 </a>
-
 
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
