@@ -94,76 +94,35 @@
 </p>
 <br>
 
-<h1 align="center"> Languages/Frameworks I'm learning: </h1>
-<p align="center">
-  <code><a href="https://docs.nestjs.com/"><img alt="NestJS" title="NestJS" src="./assets/NestJS.png" height="42"></a></code>
-  <code><a href="https://laravel.com/"><img alt="Laravel" title="Laravel" src="./assets/laravel.png" height="42"></a></code>
+<h1 align="left"> Environments</h1>
+<p align="left">
+  <code><a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="./assets/arch.png" height="42"></a></code>
+  <code><a href="https://en.wikipedia.org/wiki/MacOS"><img alt="MacOS" title="MacOS" src="./assets/mac.png" height="42"></a></code>
+  <code><a href="https://www.microsoft.com/en-in/windows?r=1"><img alt="Windows" title="Windows" src="./assets/windows.png" height="42"></a></code>
+  <code><a href="https://www.jetbrains.com/pycharm/"><img alt="Pycharm" title="Pycharm" src="./assets/pycharm.jpeg" height="42"></a></code>
+  <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
+</p>
+
+<br>
+<h1 align="left"> Languages/Frameworks I'm learning: </h1>
+<p align="left">
   <code><a href="https://spring.io/"><img alt="Spring" title="Spring" src="./assets/spring-logo.png" height="42"></a></code>
-  <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
 </p>
 <br>
 
-<h1 align="center"> Environments I work with: </h1>
-<p align="center">
-  <code><a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="./assets/arch.png" height="42"></a></code>
-  <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
-  <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="./assets/npm.png" height="42"></a></code>
-  <code><a href="https://classic.yarnpkg.com/en/"><img alt="YARN" title="YARN" src="./assets/yarn.png" height="42"></a></code>
-  <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
-</p>
+
 <br>
 
 <!-- GitHub stats section -->
 
 ## 📊 Github stats
 
-<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DavidsDvm's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=DavidsDvm&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DavidsDvm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidsDvm&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<a href="https://github.com/Alleny244">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alleny244&show_icons=true&theme=react&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alleny244&layout=compact&langs_count=8&theme=react"/>
+</a>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alleny244&theme=react" alt="alleny244" />
 </p>
 
-<!-- Projects section -->
-
-## 📘 My top open source projects
-
-<!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <p style="widht: 100%;" align="center">
-    <a href="https://github.com/DavidsDvm/Flowy"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=Flowy&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DavidsDvm/MascotasOlarte"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=MascotasOlarte&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-  </p>
-  <p align="center">&#8192;</p>
-  <p style="widht: 100%;" align="center">
-    <a href="https://github.com/DavidsDvm/Dev_Exercises"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=Dev_Exercises&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DavidsDvm/EjerciciosSena"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=DavidsDvm&repo=EjerciciosSena&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
-  </p>
-</p>
-
-<p align="center">&#8192;</p>
-<p align="center">&#8192;</p>
-
-<p align="left">
-  <a href="https://github.com/DavidsDvm?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
-<!-- last activity section -->
-
-## Activity Graph
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
-</p>
-
-<br>
-
-<!-- last refresh of readme section -->
-
-Last refresh: <b>Saturday, February 1, 7:59 PM GMT-5</b>
-
-<!---
-DavidsDvm/DavidsDvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
