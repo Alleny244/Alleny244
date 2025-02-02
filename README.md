@@ -1,7 +1,10 @@
 
 <!-- 
 GIF SECTION
-<a href="https://github.com/DavidsDvm">![DavidsDvm Profile GIF](./assets/profile_presentation.gif)</a>
+<a href="https://github.com/Alleny244">
+  <img src="./assets/profile.gif" alt="Alleny244 Profile GIF" width="400"/>
+</a>
+
 
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
