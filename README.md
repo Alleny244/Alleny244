@@ -71,8 +71,7 @@
   <code><a href="https://www.mysql.com/"><img alt="mysql" title="mysql" src="./assets/mysql.png" height="42"></a></code>
   <code><a href="https://www.postgresql.org/"><img alt="postgresql" title="postgresql" src="./assets/postgress.png" height="42"></a></code>
    <code><a href="https://redis.io/"><img alt="redis" title="redis" src="./assets/redis.jpeg" height="42"></a></code>
-  <br>
-   <br>
+
   <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./assets/markdown.png" height="42"></a></code>
   <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
   <code><a href="https://bitbucket.org/"><img alt="Bitbucket" title="Bitbucket" src="./assets/bitbucket.png" height="42"></a></code>
@@ -86,8 +85,7 @@
    <code><a href="https://docs.nats.io/"><img alt="Nats" title="Nats" src="./assets/nats.png" height="42"></a></code>
    <code><a href="https://graphql.org/"><img alt="GraphQL" title="GraphQL" src="./assets/graphql.png" height="42"></a></code>
    <code><a href="https://grpc.io/"><img alt="grpc" title="grpc" src="./assets/grpc.png" height="42"></a></code>
-    <br>
-   <br>
+
    <code><a href="https://grafana.com/"><img alt="Graffana" title="Graffana" src="./assets/graffana.jpeg" height="42"></a></code>
   <code><a href="https://prometheus.io/"><img alt="Prometheus" title="Prometheus" src="./assets/prometheus.png" height="42"></a></code>
   <code><a href="https://locust.io/"><img alt="locust" title="locust" src="./assets/locust.jpeg" height="42"></a></code>
