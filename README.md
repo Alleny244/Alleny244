@@ -68,6 +68,8 @@
   <code><a href="https://flutter.dev/"><img alt="Flutter" title="Flutter" src="./assets/flutter.png" height="42"></a></code>
    <code><a href="https://kotlinlang.org/"><img alt="Kotlin" title="Kotlin" src="./assets/kotlin.jpeg" height="42"></a></code>
   <code><a href="https://www.mongodb.com/"><img alt="mongodb" title="mongodb" src="./assets/mongo.jpeg" height="42"></a></code>
+    <br>
+   <br>
   <code><a href="https://www.mysql.com/"><img alt="mysql" title="mysql" src="./assets/mysql.png" height="42"></a></code>
   <code><a href="https://www.postgresql.org/"><img alt="postgresql" title="postgresql" src="./assets/postgress.png" height="42"></a></code>
    <code><a href="https://redis.io/"><img alt="redis" title="redis" src="./assets/redis.jpeg" height="42"></a></code>
@@ -81,6 +83,8 @@
      <code><a href="https://kubernetes.io/"><img alt="Kubernetes" title="Kubernetes" src="./assets/kubernetes.png" height="42"></a></code>
   <code><a href="https://www.terraform.io/"><img alt="Terraform" title="Terraform" src="./assets/terraform.png" height="42"></a></code>
   <code><a href="https://kafka.apache.org/"><img alt="Kafka" title="Kafka" src="./assets/kafka.png" height="42"></a></code>
+    <br>
+   <br>
    <code><a href="https://docs.nats.io/"><img alt="Nats" title="Nats" src="./assets/nats.png" height="42"></a></code>
    <code><a href="https://graphql.org/"><img alt="GraphQL" title="GraphQL" src="./assets/graphql.png" height="42"></a></code>
    <code><a href="https://grpc.io/"><img alt="grpc" title="grpc" src="./assets/grpc.png" height="42"></a></code>
