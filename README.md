@@ -52,7 +52,7 @@
 </p>
 <br>
 
-<h1 align="left">Frameworks</h1>
+<h1 align="left">Technologies/Frameworks</h1>
 <p align="left">
   <code><a href="https://nodejs.org/en"><img alt="Node" title="Node" src="./assets/node.png" height="42"></a></code>
   <code><a href="https://react.dev/"><img alt="React" title="React" src="./assets/react.webp" height="42"></a></code>
