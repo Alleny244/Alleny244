@@ -31,7 +31,6 @@
 - 🚀 Passionate about building new things & learning emerging technologies  
 - 🤝 Open to collaboration & contributing to open-source projects
 - 📫 How to reach me **alleny244@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sd59hNJ_ln1NKgy3q7n_h0e9iB6igeRe/view?usp=drive_link)
 - ⚡ Fun fact  **It’s all 0’s and 1’s**
 
 ![](https://komarev.com/ghpvc/?username=Alleny244)
