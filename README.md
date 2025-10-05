@@ -27,7 +27,7 @@
 
 - 🏗 **Product Engineer (Backend) at UST**  
 - 💻 **Tech Stack:** Python, GraphQL, MongoDB, GCP  
-- 🛠 **1.5+ years of experience** in backend development  
+- 🛠 **2+ years of experience** in backend development  
 - 🚀 Passionate about building new things & learning emerging technologies  
 - 🤝 Open to collaboration & contributing to open-source projects
 - 📫 How to reach me **alleny244@gmail.com**
