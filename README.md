@@ -25,8 +25,8 @@
 
 # 👋 Hey, I'm Allen Y!  
 
-- 🏗 **Product Engineer (Backend) at UST**  
-- 💻 **Tech Stack:** Python, GraphQL, MongoDB, GCP  
+- 🏗 **Associate Software Engineer at  RedHat**  
+- 💻 **Tech Stack:** Python, GraphQL, MongoDB, GCP, Ruby, PostgresSQL  
 - 🛠 **2+ years of experience** in backend development  
 - 🚀 Passionate about building new things & learning emerging technologies  
 - 🤝 Open to collaboration & contributing to open-source projects
